@@ -48,10 +48,10 @@ température initiale 20 °C et cible 63 °C :
 ---
 
 ## 📁 Structure du projet
-OeufALaCoque/
-├── OeufALaCoqueApp.swift
-├── ContentView.swift
-└── Assets/
+OeufALaCoque/  
+├── OeufALaCoqueApp.swift  
+├── ContentView.swift  
+└── Assets/  
 
 
 ---
