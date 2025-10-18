@@ -56,6 +56,13 @@ OeufALaCoque/
 
 ---
 
+## 🖼️ Aperçu
+
+### vue de l'application :
+![Vue](Assets/CaptureEcran.png)
+
+---
+
 ## 📖 Auteurs
 Projet pédagogique réalisé par **Philippe86220** avec l’assistance de **ChatGPT (GPT-5)**.  
 Ce dépôt a vocation à servir de **référence personnelle** et d’outil d’étude.
