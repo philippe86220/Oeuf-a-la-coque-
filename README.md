@@ -1,13 +1,11 @@
 # 🥚 Oeuf à la coque – Modélisation thermique en SwiftUI
 
-Ce petit projet SwiftUI calcule le **temps de cuisson d’un œuf à la coque**
-à partir du modèle de diffusion thermique dans une sphère homogène.
+>Ce petit projet SwiftUI calcule le **temps de cuisson d’un œuf à la coque**
+>à partir du modèle de diffusion thermique dans une sphère homogène.
 
 L’équation utilisée provient de la solution approchée de la chaleur au centre de la sphère :
 
-\[
-t = \frac{R^2}{\lambda_1^2 \alpha} \ln\left(\frac{T_s - T_0}{T_s - T_c}\right)
-\]
+t = (R² / (λ₁² α)) · ln((Tₛ − T₀) / (Tₛ − T_c))
 
 où :
 
