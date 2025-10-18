@@ -41,7 +41,7 @@ température initiale 20 °C et cible 63 °C :
 ---
 
 ## 🧰 Technologies
-- Swift 5.10+
+- Swift 6.2+
 - SwiftUI
 - Xcode Version 26.0.1 (17A400)
 
